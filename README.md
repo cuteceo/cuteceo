@@ -31,3 +31,4 @@ Beyond support tasks, I develop Telegram bots, automation scripts, and various u
 ### 🔭 Featured Projects
 
 *   [**Telegram Server Health Monitor**](https://github.com/cuteceo/telegram-server-health-monitor) — Asynchronous bot for real-time server monitoring (CPU, RAM, Disk) packaged in Docker.
+*   [**Nginx Log Analyzer**](https://github.com/cuteceo/nginx-log-analyzer) — High-performance Nginx log analyzer with regex parsing and beautiful terminal output.
